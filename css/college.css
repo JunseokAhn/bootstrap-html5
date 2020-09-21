@@ -18,12 +18,23 @@ html, h1, h2, h3, h4, h5, h6, a, p{
 	
 }
 
-
 .main h1 {
 	font-size: 3.5rem;
 	font-weight: bold;
 }
 
 .main strong{
+	font-weight: bold;
+}
+
+.process, .curriculum, .project {
+	padding: 3rem 15px;
+}
+
+.modal-title {
+	font-weight: bold;
+}
+
+.modal-body h6 {
 	font-weight: bold;
 }
